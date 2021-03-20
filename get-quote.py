@@ -1,5 +1,3 @@
-def primary():
-   print("Gaiwipebi.")
 
   f = open("quotes.txt")
   quotes = f.readlines()
@@ -7,5 +5,3 @@ def primary():
 
    print(quotes)
 
-if __name__== "__main__":
-  primary()
