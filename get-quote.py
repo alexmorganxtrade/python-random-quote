@@ -1,7 +1,11 @@
 
-  f = open("quotes.txt")
-  quotes = f.readlines()
-  f.close()
+  #f = open("quotes.txt")
+  # quotes = f.readlines()
+  #f.close()
 
-   print(quotes[13])
+  # print(quotes[13])
+  
+  git add get-quote.py
+git commit -m "Random quote bot is working"
+git push
 
