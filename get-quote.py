@@ -1,4 +1,4 @@
-def G():
+def primary():
    print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def G():
   #print(quotes)
 
 if __name__== "__G__":
-  main()
+  primary()
