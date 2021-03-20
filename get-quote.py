@@ -3,5 +3,5 @@
   quotes = f.readlines()
   f.close()
 
-   print(quotes[0])
+   print(quotes[13])
 
